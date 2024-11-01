@@ -1,0 +1,10 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe.config
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\bin\Debug\Roman Numeral Converter.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.AssemblyReference.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.romanNumeralConverter.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman_Numeral_Converter.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 7 - Roman Numeral Converter\Roman Numeral Converter\obj\Debug\Roman Numeral Converter.pdb
